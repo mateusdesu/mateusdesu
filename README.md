@@ -1,4 +1,4 @@
-### Hi there/Opa, beleza? 👋
+### Hi there/Opa, beleza?
 ##
 
 <div align="center">

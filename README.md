@@ -1,5 +1,5 @@
 ### Hi there/Opa, beleza?
- Cursando Ciência da computação atuamente no 6º período
+ Cursando Ciência da computação atualmente no 6º período  
  Currently studying Computer Science in the 6th period
 
 <div align="center">

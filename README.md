@@ -1,6 +1,6 @@
 ### Hi there/Opa, beleza?
  Cursando Ciência da computação atualmente no 6º período  
- Currently studying Computer Science in the 6th period
+ Currently studying Computer Science in the 6th period        
 
 <div style ="display:flex; flex-direction: row; justify-content: center;" >
   <a href="https://github.com/mateusdesu">

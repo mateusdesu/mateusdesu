@@ -1,7 +1,7 @@
 ### Hi there/Opa, beleza?    
-- 👩‍💻 Intern at Nucap [Unicarioca](https://www.unicarioca.edu.br)
+- 👩‍💻 Intern at LTA [Unicarioca](https://www.unicarioca.edu.br)
 - 🎓 Computer Science Student
-- 💡 Passionate about web development and data science
+- 💡 Passionate about Fullstack Development
 
   <a href="https://www.linkedin.com/in/mateusdesu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 

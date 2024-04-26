@@ -7,18 +7,19 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/mateusdesu">
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mateusdesu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdesu&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateusdesu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdesu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block" align="center"><br>
+  <h2 align = "center">My Stack</h2>
+<div align="center"><br>
   <img align="center" alt="mateusdesu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mateusdesu-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="mateusdesu-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="mateusdesu-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="mateusdesu-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="mateusdesu-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mateusdesu-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mateusdesu-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="mateusdesu-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="mateusdesu-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 </div>
 

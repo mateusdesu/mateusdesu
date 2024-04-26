@@ -7,8 +7,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/mateusdesu">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateusdesu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdesu&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateusdesu&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdesu&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
 </div>
   <h2 align = "center">My Stack</h2>
 <div align="center"><br>
